@@ -1,0 +1,35 @@
+.tarjeta { 
+background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  text-align: center;
+  width: 300px;
+  transition: transform 0.3s;
+}
+
+.tarjeta:hover {
+  transform: translateY(-5px);
+}
+
+.tarjeta imagen {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;  
+}
+
+.tarjeta h2 {
+  margin-top: 15px;
+  color: #333;
+}
+
+.tarjeta h3 {
+  color: #666;
+  margin-bottom: 10px;
+}
+
+.tarjeta p {
+  color: #555;
+}
+

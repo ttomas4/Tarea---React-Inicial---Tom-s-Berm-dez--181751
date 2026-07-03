@@ -31,14 +31,16 @@ Instrucciones para clonar el repositorio y abrir la página
 
 7 Presione Enter para crear el clon local.
 
+Ingresar a la carpeta del proyecto:
+   
+"cd Tarea---React-Inicial---Tom-s-Berm-dez--181751"
+
 Instalar las dependencias:
 
-bash
 "npm install"
 
 Ejecutar el proyecto:
 
-bash
 "npm run dev"
 
 Tarjetas en PC: <img width="1911" height="912" alt="image" src="https://github.com/user-attachments/assets/7494640e-d616-41f0-8276-abe3ce1edbf7" />

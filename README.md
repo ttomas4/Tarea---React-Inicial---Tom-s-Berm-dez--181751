@@ -1,6 +1,6 @@
 # Tarea---React-Inicial---Tomás-Bermúdez--181751
 
-Hola, ¿cómo están? Soy Tomás Bermúdez. Curso de Desarrollo en React JS. 181751
+Hola, ¿cómo estas? Soy Tomás Bermúdez. Curso de Desarrollo en React JS. 181751
 
 Este proyecto se desarrolló con React y Vite.
 La idea principal fue crear un componente reutilizable llamado Tarjeta, que recibe información a través de props y muestra:

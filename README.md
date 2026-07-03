@@ -1,16 +1,59 @@
-# React + Vite
+# Tarea---React-Inicial---Tomás-Bermúdez--181751
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Hola, ¿cómo están? Soy Tomás Bermúdez. Curso de Desarrollo en React JS. 181751
 
-Currently, two official plugins are available:
+Este proyecto se desarrolló con React y Vite.
+La idea principal fue crear un componente reutilizable llamado Tarjeta, que recibe información a través de props y muestra:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Nombre,Profesión, Imagen, Una breve descripción.
 
-## React Compiler
+Despues, ese mismo componente se usa devuelta para presentar tres tarjetas distintas, cada una con datos de diferentes presidentes de Argentina.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the Oxlint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+Instrucciones para clonar el repositorio y abrir la página
+
+1 En GitHub, navegue hasta la página principal del repositorio.
+
+2 Encima de la lista de archivos, haz clic en Code.
+
+<img width="393" height="116" alt="image" src="https://github.com/user-attachments/assets/2fdc2daf-36d2-42c9-ab1e-dfded071ce21" />
+
+3 Copia la dirección URL del repositorio.
+
+<img width="454" height="341" alt="image" src="https://github.com/user-attachments/assets/590bfcd7-fb8e-40a7-8aec-57bf3a0ee702" />
+
+5 Cambia el directorio de trabajo actual a la ubicación en donde quieres clonar el directorio.
+
+6 Escriba git clone y pegue la dirección URL que ha copiado antes.
+
+"git clone https://github.com/ttomas4/Tarea---React-Inicial---Tom-s-Berm-dez--181751.git"
+
+7 Presione Enter para crear el clon local.
+
+Instalar las dependencias:
+
+bash
+"npm install"
+
+Ejecutar el proyecto:
+
+bash
+"npm run dev"
+
+Tarjetas en PC: <img width="1911" height="912" alt="image" src="https://github.com/user-attachments/assets/7494640e-d616-41f0-8276-abe3ce1edbf7" />
+
+Tarjetas en dispositivos móviles: 
+
+<img width="353" height="829" alt="image" src="https://github.com/user-attachments/assets/10759507-5022-42e6-ac1d-94658caba360" />
+
+
+
+
+
+
+
+
+
+
+Muchas gracias, espero que les guste.

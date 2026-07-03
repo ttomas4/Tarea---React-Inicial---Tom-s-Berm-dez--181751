@@ -2,8 +2,14 @@
 
 Hola, ¿cómo están? Soy Tomás Bermúdez. Curso de Desarrollo en React JS. 181751
 
+Este proyecto se desarrolló con React y Vite.
+La idea principal fue crear un componente reutilizable llamado Tarjeta, que recibe información a través de props y muestra:
 
------
+Nombre,Profesión, Imagen, Una breve descripción.
+
+Despues, ese mismo componente se usa devuelta para presentar tres tarjetas distintas, cada una con datos de diferentes presidentes de Argentina.
+
+
 
 Instrucciones para clonar el repositorio y abrir la página
 
@@ -24,6 +30,16 @@ Instrucciones para clonar el repositorio y abrir la página
 "git clone https://github.com/ttomas4/Tarea---React-Inicial---Tom-s-Berm-dez--181751.git"
 
 7 Presione Enter para crear el clon local.
+
+Instalar las dependencias:
+
+bash
+"npm install"
+
+Ejecutar el proyecto:
+
+bash
+"npm run dev"
 
 Tarjetas en PC: <img width="1911" height="912" alt="image" src="https://github.com/user-attachments/assets/7494640e-d616-41f0-8276-abe3ce1edbf7" />
 
